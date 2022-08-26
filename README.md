@@ -48,7 +48,7 @@ npm run dev
 
 2. Select **Create new app** to create a new app (feel free to choose an appropriate app name).
 
-3. On the next screen, under the **Build** section of the sidebar, navigate to **App Components** > **Rule Actions** then select **+ Add action**. Fill in the following information and save:
+3. On the next screen, under the **Distribute** section of the sidebar, navigate to **App Components** > **Rule Actions** then select **+ Add action**. Fill in the following information and save:
 
         Display name: <YOUR_DISPLAY_NAME>
 
